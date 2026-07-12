@@ -1,7 +1,7 @@
 # MOSFET-Diagnostic-Assistant
 A Python project for diagnosing and repairing MOSFET parameters.
 
-## Prototype 1
+## Prototype 1 (12th July 2026)
 
 This project diagnoses basic MOSFET parameters and automatically repairs values that are outside acceptable limits. This simple python based program serves as more of a stepping stone in the bigger journey of making machine learning powered diagnostic tool.
 
