@@ -19,3 +19,10 @@ Language:
 I realized that storing values from a dictionary into separate variables felt repetitive.
 I also noticed that writing many if-else statements makes the code harder to maintain.
 These limitations motivated me to explore functions, loops over dictionaries, and better program design in future prototypes.
+
+Prototype 2 (16th July 2026)
+The limitations from the previous version were well thought upon and worked out using functions whixh reduced the code and made it moch more easier to understand 
+
+- ### Lessons Learned (Prototype 2)
+- We still need an error management system so as to prevent the program from crashing when the user does a mistake.
+- The project needs a professional layout
