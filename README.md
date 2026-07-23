@@ -40,7 +40,7 @@ With the help of basic matplotlib I was able to plot the drain current and VGS g
 Shifting the focus from a python fundamental heavy endeavour to an actual MOSFET physics based engine, which not only takes the values from the user but also establishes the dependence of different factors on one another, for commit 4 we will look to delve more into the physics by sweeping VDS instead of VGS and son and so forth.
 Additionally plotting more curves aswell, which will involve more knowledge of MATPLOTLIB essential for actual visualisation of the physics backed python code.
 
-Lessons learned (Prototype 3)
+### Lessons learned (Prototype 3)
 Some technical lessons like a unicode is not a minus sign as python is a object oriented case sensitive language an eye opener not to forget the basics.
 Learnt about the basis of MOSFET based physics.
 The next prototype would look better with more graphs to show output characteristics better
