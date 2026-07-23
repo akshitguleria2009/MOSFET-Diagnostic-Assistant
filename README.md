@@ -1,4 +1,4 @@
-# MOSFET-Diagnostic-Assistant
+# Parameterized MOSFET DC Analysis & Transfer Curve Generator
 A Python project for diagnosing and repairing MOSFET parameters.
 
 ## Prototype 1 (12th July 2026)
