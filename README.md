@@ -33,4 +33,14 @@ The physics engine can now perform vectorized MOSFET calculations efficiently.
 During implementation planning, I realized numerical computation alone isn't enough—engineering tools need clear visualization.
 The next milestone is integrating Matplotlib to generate transfer/output characteristic curves (ID–VGS, ID–VDS), allowing users to interpret device behaviour rather than raw numerical outputs.
 This shifts the project from being a calculation script toward becoming an actual analysis tool.
-The plan for commoit 3 is to move into an actual engneering tool rather than just a simple python based program based on independent inputs which do not effect each other which is not the case for an actual MOSFET.
+The plan for prototype 3 is to move into an actual engneering tool rather than just a simple python based program based on independent inputs which do not effect each other which is not the case for an actual MOSFET.
+
+### Prototype 3 (23rd July, 2026)
+With the help of basic matplotlib I was able to plot the drain current and VGS graph further strengthening the project.
+Shifting the focus from a python fundamental heavy endeavour to an actual MOSFET physics based engine, which not only takes the values from the user but also establishes the dependence of different factors on one another, for commit 4 we will look to delve more into the physics by sweeping VDS instead of VGS and son and so forth.
+Additionally plotting more curves aswell, which will involve more knowledge of MATPLOTLIB essential for actual visualisation of the physics backed python code.
+
+Lessons learned (Prototype 3)
+Some technical lessons like a unicode is not a minus sign as python is a object oriented case sensitive language an eye opener not to forget the basics.
+Learnt about the basis of MOSFET based physics.
+The next prototype would look better with more graphs to show output characteristics better
